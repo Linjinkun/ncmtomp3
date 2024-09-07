@@ -1,8 +1,10 @@
 1.from Crypto.Cipher import AES 问题
 
-`pip uninstall crypto
+```
+pip uninstall crypto
 pip uninstall pycryptodome
-pip install pycryptodome`
+pip install pycryptodome
+```
 
 2.如何运行
 
